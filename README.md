@@ -20,7 +20,7 @@ This repository contains the scripts used to:
 ## Requirements
 Install dependencies:
 ```bash
-pip install -r requirements.txt
+Install the required Python packages (NumPy, SciPy, Pandas, EntropyHub, PyRQA).
 
 ## Data organization
 
