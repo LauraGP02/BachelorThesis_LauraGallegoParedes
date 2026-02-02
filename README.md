@@ -31,6 +31,7 @@ CSV files exported from the mDurance platform.
 
 The expected directory structure is the following:
 
+```text
 data/
 ├── Subject01/
 │   └── mDurance/
@@ -42,7 +43,7 @@ data/
 │       ├── mvic.csv
 │       ├── neutral.csv
 │       └── adduction.csv
-
+```
 Each CSV file is expected to contain two EMG channels corresponding to:
 - Vastus Medialis Obliquus (VMO)
 - Vastus Lateralis (VL)
