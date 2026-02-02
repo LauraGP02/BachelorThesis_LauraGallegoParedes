@@ -21,6 +21,7 @@ This repository contains the scripts used to:
 Install dependencies:
 ```bash
 Install the required Python packages (NumPy, SciPy, Pandas, EntropyHub, PyRQA).
+```
 
 ## Data organization
 
@@ -60,6 +61,7 @@ keywords "vasto_medial" and "vasto_lateral".
 
 ```bash
 python main.py
+```
 
 ```md
 The pipeline performs the following steps automatically:
@@ -69,7 +71,7 @@ The pipeline performs the following steps automatically:
 - MVIC-based normalization
 - Automatic detection of the central activation window
 - Feature extraction in the time, frequency and non-linear domains
-
+```
 The output is a CSV file containing all extracted metrics for each subject,
 gesture condition and repetition:
 
